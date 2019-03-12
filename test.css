@@ -5,6 +5,7 @@
   /* background: url(../img/BannerInicio.png) no-repeat center center; */
   background: url(img/BannerInicio.png) no-repeat center center;
   background-size: cover;
+  height: 100vh;
   margin-top: -20px;
 }
 .image .heading {
